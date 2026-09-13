@@ -236,4 +236,4 @@ This repository serves as the official landing page for Depth Hunter. The softwa
 **Get the most recent version of Depth Hunter today!**
 
 ---
-**Last updated:** 2026-09-13 17:13:48 UTC
+**Last updated:** 2026-09-13 20:15:58 UTC
